@@ -6,7 +6,7 @@
 4. If the PR is unfinished while opening it specify a wip in the title before the actual title, for example, "wip: my awesome feature"
 -->
 
-**What type of PR is this?**
+**What kind of PR is this?**
 
 > Uncomment one (or more) `/kind <>` lines:
 
